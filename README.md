@@ -4,7 +4,7 @@ This Stardate Calculator is a Python script that calculates the current stardate
 
 ## Usage
 
-To use the Stardate Calculator with Century Prefix, run the provided Python script (`stardate_calculator.py`) in a Python environment. The script will output the current stardate, including the century prefix, based on the custom reference date and conversion factor used.
+To use the Stardate Calculator with Century Prefix, run the provided Python script (`stardate.py`) in a Python environment. The script will output the current stardate, including the century prefix, based on the custom reference date and conversion factor used.
 
 ```bash
 python stardate.py
