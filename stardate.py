@@ -27,4 +27,4 @@ if __name__ == "__main__":
     stardate = current_stardate()
     century = current_century()
     stardate_with_century = format_stardate_with_century(stardate, century)
-    print(f"Current stardate (with century prefix): {stardate_with_century}")
+    print(f"Current stardate: {stardate_with_century}")
